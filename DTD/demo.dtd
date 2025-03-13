@@ -1,0 +1,24 @@
+<!-- <!ATTLIST element-name
+ attribute_name TYPE DEFAULT_VALUE
+ attribute_name TYPE DEFAULT_VALUE> -->
+
+ <!ATTRLIST tutorials
+ published true>
+ <!-- Type
+       value
+       #IMPLIED = no default value but value can be optional
+       #REQUIRED = no default value but you need to give the value
+       #FIXED = fixed value
+
+
+    Types of attributes
+       CDATA
+       ENTITY
+       ENTITIES
+       Enumerated - multiple values (set of values)
+       ID - different ids
+       IDREF - id  reference
+       IDREFS -  id references
+       NMTOKEN
+       NMTOKENS
+       NOTATIONS

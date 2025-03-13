@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Students[
+<!ELEMENT Student(Name,Number,Info,Faculty)>
+<!ATTRLIST Student ssid #CDATA>
+<!ELEMENT Info(Address,ID)>
+<!ELEMENT Address(Tole,Ward)>
+<!ELEMENT Tole (#PCDATA)>
+<!ELEMENT Ward (#PCDATA)>
+<!ELEMENT ID(Citizenship,NID)>
+<!ELEMENT Citizenship (#PCDATA)>
+<!ELEMENT NID (#PCDATA)>
+]>
+<!DOCTYPE tutorials SYSTEM "tutorials.dtd">
+<!--<!DOCTYPE tutorials PUBLIC identifier (url of dtd file)>// Private-->
+<!DOCTYPE html PUBLIC "-//w3c//DTD XHTML//EN">
+<Students>
+<Student ssid = "1a">
+        <Name>Dinesh Poudel</Name>
+        <Number>+977 9741000000</Number>
+        <Info>
+            <Address id = "Permanent">
+                <Tole>Bidhut</Tole>
+                <Ward>06</Ward>
+            </Address>
+            <ID>
+                <Citizenship>9753124680</Citizenship>
+                <NID>246809753135780</NID>
+            </ID>
+        </Info>
+        <Faculty>BCA</Faculty>
+</Student>
+<Student>
+        <Name>Kumar Bhattarai</Name>
+        <Number>+977 9834773399</Number>
+        <Info>
+            <Address>
+                <Tole>P.B path</Tole>
+                <Ward>5</Ward>
+            </Address>
+            <ID>
+                <Citizenship>3947293742937</Citizenship>
+                <NID>93247239874327</NID>
+            </ID>
+        </Info>
+        <Faculty>BSC CSIT</Faculty>
+</Student>
+</Students>

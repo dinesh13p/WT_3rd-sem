@@ -1,0 +1,40 @@
+body{
+     background-image: url('Form.jpg');
+     background-size: cover;
+     background-position: center;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+     margin: 0;
+    }
+
+.form{
+      background-color: orange;
+      padding: 20px;
+      border: 3px solid blue;
+      border-radius: 10px;
+      text-align: center;
+      width: 300px;
+     }
+
+h1{
+   color:blue;
+  }
+
+.btnn{
+      background-color: yellow;
+      color: blue;
+      padding: 10px;
+      border: none;
+      cursor: pointer;
+      width: auto;
+     }
+
+.data{
+      margin-bottom: 10px;
+      text-align: center;
+      
+     }
+
+

@@ -1,0 +1,12 @@
+<? XML version="1.0">
+  <college>
+   <student id = "13">
+     <firstname> Dinesh </firstname>
+     <lastname> Poudel </lastname>
+     <email> dineshp4297501@gmail.com </email>
+     <address>
+       <city> Bardaghat </city>
+       <street> Bidhut </street>
+     </address>
+   </student>
+  <college>

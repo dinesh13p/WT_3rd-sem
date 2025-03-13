@@ -1,0 +1,11 @@
+---------- Rules ----------
+
+1) Must have a root element
+2) Must closed
+3) Properly nested
+4) Proper naming tags
+5) Case sensitive
+6) Cannot contain space
+7) Attribute must be quotted
+8) White space is preserved
+9) Avoid HTML tags (optional)

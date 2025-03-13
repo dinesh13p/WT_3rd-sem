@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tutorial [
+    <!ELEMENT tutorial ((author,rating?)+, name, url*)>
+    <!ELEMENT author (#PCDATA)>
+    <!ELEMENT rating (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT url (#PCDATA)>
+]>
+
+<tutorial>
+    <author>John Doe</author>
+    <rating>4.5</rating>
+    <author>Jane Smith</author>
+    <name>XML Basics</name>
+    <url>https://example.com/xml-basics</url>
+    <url>https://example.com/xml-guide</url>
+</tutorial>

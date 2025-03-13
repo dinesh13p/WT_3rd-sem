@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movie>
+    <title>Doctor Strange</title>
+    <studio>Marvel Studios</studio>
+    <genre>Action, Adventure, Fantasy</genre>
+    <released_date>2016-11-04</released_date>
+    <director>Scott Derrickson</director>
+    <writers>
+        <writer>Jon Spaihts</writer>
+        <writer>Scott Derrickson</writer>
+        <writer>C. Robert Cargill</writer>
+    </writers>
+    <cast>
+        <actor>
+            <name>Benedict Cumberbatch</name>
+            <age>40</age>
+            <role>Dr. Stephen Strange</role>
+        </actor>
+        <actor>
+            <name>Mads Mikkelsen</name>
+            <age>51</age>
+            <role>Kaecilius</role>
+        </actor>
+        <actor>
+            <name>Tilda Swinton</name>
+            <age>56</age>
+            <role>The Ancient One</role>
+        </actor>
+        <actor>
+            <name>Chiwetel Ejiofor</name>
+            <age>39</age>
+            <role>Mordo</role>
+        </actor>
+        <actor>
+            <name>Benedict Wong</name>
+            <age>45</age>
+            <role>Wong</role>
+        </actor>
+        <actor>
+            <name>Rachel McAdams</name>
+            <age>37</age>
+            <role>Dr. Christine Palmer</role>
+        </actor>
+        <actor>
+            <name>Voiced by: Benedict Cumberbatch</name>
+            <age>40</age>
+            <role>Dormammu</role>
+        </actor>
+    </cast>
+    <duration>115 min</duration>
+    <box_office>
+        <budget>$165 million</budget>
+        <gross_collection>$677.8 million</gross_collection>
+    </box_office>
+    <ratings>
+        <imdb>7.5</imdb>
+        <rotten_tomatoes>89%</rotten_tomatoes>
+    </ratings>
+</Movie>

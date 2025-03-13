@@ -1,0 +1,16 @@
+-------- DTD --------
+
+- Internal:
+           with the xml document in the prolog part
+- External:
+           outside dtd
+- Combined:
+           
+
+<! DOCTYPE tutorials SYSTEM "tutorial.otd">
+<! DOCTYPE tutorials PUBLIC identifier  Url>
+<! DOCTYPE html PUBLIC
+     " -// W3C // DTD XHTML //EN"
+
+
+--------- DTD ELEMENTS ----------

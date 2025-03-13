@@ -1,0 +1,34 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<organization>
+    <employees>
+        <employee>
+            <name>Kishor Sharma</name>
+            <address>BP Path</address>
+        </employee>
+        <employee>
+            <name>Bishal Tharu</name>
+            <address>Ghorle Path</address>
+        </employee>
+        <employee>
+            <name>Hari Sitaram</name>
+            <address>Om Path</address>
+        </employee>
+    </employees>
+    <departments>
+        <department>
+            <departmentName>Product Department</departmentName>
+            <budget>5000$</budget>
+            <no.ofEmployees>50</no.ofEmployees>
+        </department>
+        <department>
+            <departmentName>Sales Department</departmentName>
+            <budget>6000$</budget>
+            <no.ofEmployees>40</no.ofEmployees>
+        </department>
+        <department>
+            <departmentName>Marketing Department</departmentName>
+            <budget>8000$</budget>
+            <no.ofEmployees>40</no.ofEmployees>
+        </department>
+    </departments>
+</organization>

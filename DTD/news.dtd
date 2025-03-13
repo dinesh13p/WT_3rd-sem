@@ -1,0 +1,17 @@
+<!DOCTYPE News [
+
+<! ELEMENT News (headline, channel, date, topic, content, reporter, cameraman, duration)>
+
+<! ELEMENT headline (#PCDATA)>
+<! ELEMENT channel (#PCDATA)>
+<! ELEMENT date (#PCDATA)>
+<! ELEMENT topic (#PCDATA)>
+<! ELEMENT content (#PCDATA)>
+
+<! ELEMENT reporter (name, age, gender)>
+<! ELEMENT cameraman (name, age, gender)>
+
+<! ELEMENT duration (#PCDATA)>
+
+
+]>

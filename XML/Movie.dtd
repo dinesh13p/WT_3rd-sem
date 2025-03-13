@@ -1,0 +1,28 @@
+<!DOCTYPE Movie [
+    <!ELEMENT Movie (title, studio, genre, released_date, director, writers, cast, duration, box_office, ratings)>
+
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT studio (#PCDATA)>
+    <!ELEMENT genre (#PCDATA)>
+    <!ELEMENT released_date (#PCDATA)>
+    <!ELEMENT director (#PCDATA)>
+
+    <!ELEMENT writers (writer+)>
+    <!ELEMENT writer (#PCDATA)>
+
+    <!ELEMENT cast (actor+)>
+    <!ELEMENT actor (name, age, role)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT role (#PCDATA)>
+
+    <!ELEMENT duration (#PCDATA)>
+
+    <!ELEMENT box_office (budget, gross_collection)>
+    <!ELEMENT budget (#PCDATA)>
+    <!ELEMENT gross_collection (#PCDATA)>
+
+    <!ELEMENT ratings (imdb, rotten_tomatoes)>
+    <!ELEMENT imdb (#PCDATA)>
+    <!ELEMENT rotten_tomatoes (#PCDATA)>
+]>

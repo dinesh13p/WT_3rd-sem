@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<News>
+    <Article id="a1" published="yes">
+            <Title> Nepathya hosts Futsal tournament</Title>
+            <Author>
+                <FirstName>Binayak</FirstName>
+                <LastName>Kadel</LastName>
+            </Author>
+            <Content>
+                nepal dlkfj hhbcv fhv
+            </Content>
+            <Category id="c01">
+                Sports
+            </Category>
+    </Article>
+    <Article id="a2" published="no">
+        <Title> Sky hosts Futsal tournament</Title>
+        <Author>
+                <FirstName>Sanjeev</FirstName>
+                <LastName>Bhandari</LastName>
+            </Author>
+            <Content>
+                nepal dlkfj hhbcv fhv
+            </Content>
+            <Category id="c01">
+                Sports
+            </Category>
