@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<library>
+    <book>
+        <title>Muna Madan</title>
+        <author>Laxmi Prasad Devkota</author>
+        <year>1936</year>
+        <price>500</price>
+    </book>
+    <book>
+        <title>Doshi Chasma</title>
+        <author>B.P. Koirala</author>
+        <year>1949</year>
+        <price>320</price>
+    </book>
+    <book>
+        <title>Karnali Blues</title>
+        <author>Buddhisagar</author>
+        <year>2010</year>
+        <price>700</price>
+    </book>
+</library>
+
